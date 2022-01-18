@@ -1,0 +1,16 @@
+D:\C# Projects\indexOf_examplee\indexOf_examplee\bin\Debug\net5.0\indexOf_examplee.exe
+D:\C# Projects\indexOf_examplee\indexOf_examplee\bin\Debug\net5.0\indexOf_examplee.deps.json
+D:\C# Projects\indexOf_examplee\indexOf_examplee\bin\Debug\net5.0\indexOf_examplee.runtimeconfig.json
+D:\C# Projects\indexOf_examplee\indexOf_examplee\bin\Debug\net5.0\indexOf_examplee.runtimeconfig.dev.json
+D:\C# Projects\indexOf_examplee\indexOf_examplee\bin\Debug\net5.0\indexOf_examplee.dll
+D:\C# Projects\indexOf_examplee\indexOf_examplee\bin\Debug\net5.0\ref\indexOf_examplee.dll
+D:\C# Projects\indexOf_examplee\indexOf_examplee\bin\Debug\net5.0\indexOf_examplee.pdb
+D:\C# Projects\indexOf_examplee\indexOf_examplee\obj\Debug\net5.0\indexOf_examplee.csproj.AssemblyReference.cache
+D:\C# Projects\indexOf_examplee\indexOf_examplee\obj\Debug\net5.0\indexOf_examplee.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\indexOf_examplee\indexOf_examplee\obj\Debug\net5.0\indexOf_examplee.AssemblyInfoInputs.cache
+D:\C# Projects\indexOf_examplee\indexOf_examplee\obj\Debug\net5.0\indexOf_examplee.AssemblyInfo.cs
+D:\C# Projects\indexOf_examplee\indexOf_examplee\obj\Debug\net5.0\indexOf_examplee.csproj.CoreCompileInputs.cache
+D:\C# Projects\indexOf_examplee\indexOf_examplee\obj\Debug\net5.0\indexOf_examplee.dll
+D:\C# Projects\indexOf_examplee\indexOf_examplee\obj\Debug\net5.0\ref\indexOf_examplee.dll
+D:\C# Projects\indexOf_examplee\indexOf_examplee\obj\Debug\net5.0\indexOf_examplee.pdb
+D:\C# Projects\indexOf_examplee\indexOf_examplee\obj\Debug\net5.0\indexOf_examplee.genruntimeconfig.cache

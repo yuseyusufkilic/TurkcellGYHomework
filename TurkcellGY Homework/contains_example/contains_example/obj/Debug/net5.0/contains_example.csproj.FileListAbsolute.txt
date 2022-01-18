@@ -1,0 +1,16 @@
+D:\C# Projects\contains_example\contains_example\obj\Debug\net5.0\contains_example.csproj.AssemblyReference.cache
+D:\C# Projects\contains_example\contains_example\obj\Debug\net5.0\contains_example.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\contains_example\contains_example\obj\Debug\net5.0\contains_example.AssemblyInfoInputs.cache
+D:\C# Projects\contains_example\contains_example\obj\Debug\net5.0\contains_example.AssemblyInfo.cs
+D:\C# Projects\contains_example\contains_example\obj\Debug\net5.0\contains_example.csproj.CoreCompileInputs.cache
+D:\C# Projects\contains_example\contains_example\bin\Debug\net5.0\contains_example.exe
+D:\C# Projects\contains_example\contains_example\bin\Debug\net5.0\contains_example.deps.json
+D:\C# Projects\contains_example\contains_example\bin\Debug\net5.0\contains_example.runtimeconfig.json
+D:\C# Projects\contains_example\contains_example\bin\Debug\net5.0\contains_example.runtimeconfig.dev.json
+D:\C# Projects\contains_example\contains_example\bin\Debug\net5.0\contains_example.dll
+D:\C# Projects\contains_example\contains_example\bin\Debug\net5.0\ref\contains_example.dll
+D:\C# Projects\contains_example\contains_example\bin\Debug\net5.0\contains_example.pdb
+D:\C# Projects\contains_example\contains_example\obj\Debug\net5.0\contains_example.dll
+D:\C# Projects\contains_example\contains_example\obj\Debug\net5.0\ref\contains_example.dll
+D:\C# Projects\contains_example\contains_example\obj\Debug\net5.0\contains_example.pdb
+D:\C# Projects\contains_example\contains_example\obj\Debug\net5.0\contains_example.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\C# Projects\split_example\split_example\bin\Debug\net5.0\split_example.exe
+D:\C# Projects\split_example\split_example\bin\Debug\net5.0\split_example.deps.json
+D:\C# Projects\split_example\split_example\bin\Debug\net5.0\split_example.runtimeconfig.json
+D:\C# Projects\split_example\split_example\bin\Debug\net5.0\split_example.runtimeconfig.dev.json
+D:\C# Projects\split_example\split_example\bin\Debug\net5.0\split_example.dll
+D:\C# Projects\split_example\split_example\bin\Debug\net5.0\ref\split_example.dll
+D:\C# Projects\split_example\split_example\bin\Debug\net5.0\split_example.pdb
+D:\C# Projects\split_example\split_example\obj\Debug\net5.0\split_example.csproj.AssemblyReference.cache
+D:\C# Projects\split_example\split_example\obj\Debug\net5.0\split_example.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Projects\split_example\split_example\obj\Debug\net5.0\split_example.AssemblyInfoInputs.cache
+D:\C# Projects\split_example\split_example\obj\Debug\net5.0\split_example.AssemblyInfo.cs
+D:\C# Projects\split_example\split_example\obj\Debug\net5.0\split_example.csproj.CoreCompileInputs.cache
+D:\C# Projects\split_example\split_example\obj\Debug\net5.0\split_example.dll
+D:\C# Projects\split_example\split_example\obj\Debug\net5.0\ref\split_example.dll
+D:\C# Projects\split_example\split_example\obj\Debug\net5.0\split_example.pdb
+D:\C# Projects\split_example\split_example\obj\Debug\net5.0\split_example.genruntimeconfig.cache
